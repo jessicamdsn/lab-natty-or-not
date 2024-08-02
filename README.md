@@ -38,6 +38,7 @@ Este projeto explora a criação de conteúdos visuais altamente realistas usand
 <div align="center">
     <img src="Imgs-IA/senhora.jpeg"  height="300" alt="Resultado 1">
     <img src="Imgs-IA/mulher2.jpeg"  height="300" alt="Resultado 1">
+    <br>
     Prompt: "a beautiful woman, with small spots on her skin, dark, long, wavy hair, with fair skin, with a look of surprise and happiness on her face, full lips and rosy cheeks"
 </div>
 
