@@ -39,7 +39,7 @@ Este projeto explora a criação de conteúdos visuais altamente realistas usand
     <img src="Imgs-IA/senhora.jpeg"  height="300" alt="Resultado 1">
     <img src="Imgs-IA/mulher2.jpeg"  height="300" alt="Resultado 1">
     <br>
-    Prompt: "A 40-year-old woman with fair skin sitting on the riverbank washing clothes"
+    Prompt: "A 40-year-old woman with fair skin sitting on the riverbank washing clothes"<br>
     Prompt: "Uma mulher de 40 anos de pele clara sentada na margem do rio lavando roupas"
 </div>
 
