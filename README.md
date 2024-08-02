@@ -46,6 +46,6 @@ Este projeto explora a criação de conteúdos visuais altamente realistas usand
 ##
 
 ### 💭 Reflexão 
-Ao comparar a utilização de prompts em inglês e português, observei diferenças significativas nos resultados. Utilizando o mesmo prompt em diferentes ferramentas de IA, percebi que os resultados foram insatisfatórios e menos realistas nas alternativas.
+Ao comparar a utilização de prompts em inglês e português, observei diferenças significativas nos resultados. Utilizando o mesmo prompt em diferentes ferramentas de IA, também percebi que os resultados foram insatisfatórios e menos realistas nas alternativas.
 
 
