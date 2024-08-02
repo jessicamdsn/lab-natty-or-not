@@ -13,7 +13,7 @@ Este projeto explora a criação de conteúdos visuais altamente realistas usand
 ## 🚀 Resultados 
 
 <div align="center">
-    <img src="Imgs-IA/mulher.jpeg" width="500" alt="Resultado 1">
+    <img src="Imgs-IA/mulher.jpeg" width="400" alt="Resultado 1">
      <br>
     Prompt: "Ultra realistic image of a Caucasian woman, 40 years old, a mole on her right cheek"
 </div>
@@ -23,7 +23,7 @@ Este projeto explora a criação de conteúdos visuais altamente realistas usand
 
 <br>
 <div align="center">
-    <img src="Imgs-IA/menina.jpeg" width="500" alt="Resultado 1">
+    <img src="Imgs-IA/menina.jpeg" width="00" alt="Resultado 1">
     <br>
     Prompt: "a beautiful woman, with small spots on her skin, dark, long, wavy hair, with fair skin, with a look of surprise and happiness on her face, full lips and rosy cheeks"
 </div>
@@ -36,8 +36,8 @@ Este projeto explora a criação de conteúdos visuais altamente realistas usand
 ### Mesmo prompt, mas com variações: um em inglês e outro em português respectivamente: 
 <br>
 <div align="center">
-    <img src="Imgs-IA/senhora.jpeg"  height="400" alt="Resultado 1">
-    <img src="Imgs-IA/mulher2.jpeg"  height="400" alt="Resultado 1">
+    <img src="Imgs-IA/senhora.jpeg"  height="300" alt="Resultado 1">
+    <img src="Imgs-IA/mulher2.jpeg"  height="300" alt="Resultado 1">
     Prompt: "a beautiful woman, with small spots on her skin, dark, long, wavy hair, with fair skin, with a look of surprise and happiness on her face, full lips and rosy cheeks"
 </div>
 
